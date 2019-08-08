@@ -11,6 +11,7 @@ console.log(lebordel('jean', "sera", "présent"))
 function jeMincrust()
 {
     console.log('bonjour');
+}
     
 
 function lebordel(nom, adresse, autre){
