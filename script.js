@@ -1,5 +1,6 @@
+
 function init(){
-    console.log("Hello my world");
+    console.log("Hello world by Arsen");
     console.log("c'est mon pull request")
     if(chiante()){
         console.log("false")
